@@ -10,7 +10,7 @@ a {
 }
 
 body {
-  text-align: center;
+  text-align: center; 
   background-color: #F26522;
   background: url(images/left.png) no-repeat bottom left fixed, url(images/right.png) no-repeat bottom right fixed, -moz-linear-gradient(0, rgba(200,0,0,.5) 50%, transparent 50%), -moz-linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%), #F26522;
   background: url(images/left.png) no-repeat bottom left fixed, url(images/right.png) no-repeat bottom right fixed, -o-linear-gradient(0, rgba(200,0,0,.5) 50%, transparent 50%), -o-linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%), #F26522;
